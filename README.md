@@ -28,6 +28,8 @@
 
 #### My Stats
 
+<img src="https://komarev.com/ghpvc/?username=morshedul-antor&style=flat-square&color=blue" alt=""/>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morshedul-antor&theme=light&background=fff)](https://git.io/streak-stats)
 
 #### Connect With Me
