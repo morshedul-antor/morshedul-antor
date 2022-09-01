@@ -17,14 +17,14 @@
 
 #### My Current Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="48" height=48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS " width="48" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="48" height="48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="48" height=48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/python/python-original.svg" title="Python" alt="Python" width="48" height=48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="48" height=48"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="48" height=48"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="44" height="44"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS " width="44" height="44"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="44" height="44"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="44" height="44"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="44" height="44"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/python/python-original.svg" title="Python" alt="Python" width="44" height="44"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="44" height="44"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="44" height=44"/>
 
 #### Connect With Me
 
@@ -39,6 +39,6 @@
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
 <a href="mailto:antor.morshedul@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Gmail-D14436?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
