@@ -14,11 +14,10 @@
 -   🌱 Learning about **NextJS**, **React Native**, **DevOps**
 -   💬 Ping me about **JS**, **ReactJS**, **Python**, **Machine Learning**
 -   📫 Reach me: [Linkedin.com](https://www.linkedin.com/in/morshedul-antor)
-    <img src="https://komarev.com/ghpvc/?username=morshedul-antor&style=flat-square&color=blue" alt=""/>
 
 #### My Current Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 
 #### Connect With Me
 
