@@ -1,14 +1,14 @@
-## Hi 👋, I'm a Software Engineer working in Dhaka, Bangladesh
+## Hi there, I'm Morshedul Antor 👋
 
 #### Now
 
 -   :fire: Interested in Mobile App Development and DevOps
 -   :calendar: Looking for contributing to React based projects
 
-#### Bio
+#### Talking About Personal Stuffs
 
 -   🏢 I'm currently working at **HEALTHx Ventures**
--   🧑 BS in **Computer Science Engineering**
+-   🧑 Completed BS in **Computer Science Engineering**
 -   ⚙️ I use daily: `.js`, `.jsx`, `.py`, `.css`, `.sh`
 -   🌍 I'm mostly active within the **ReactJS Community**
 -   🌱 Learning about **NextJS**, **React Native**, **DevOps**
@@ -28,9 +28,8 @@
 
 #### My Stats
 
-<img src="https://komarev.com/ghpvc/?username=morshedul-antor&style=flat-square&color=blue" alt=""/>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morshedul-antor&theme=light&background=fff)](https://git.io/streak-stats)
+<img src="https://komarev.com/ghpvc/?username=morshedul-antor&style=flat-square&color=blue" alt=""/>
 
 #### Connect With Me
 
