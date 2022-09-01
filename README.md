@@ -18,7 +18,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="40" height="40"/>
 
 #### Connect With Me
 
