@@ -1,6 +1,6 @@
 ## Hi there, I'm Morshedul Antor 👋
 
-#### Talking About Personal Stuffs
+#### About Me
 
 -   🏢 I'm currently working at **HEALTHx Ventures**
 -   🧑 Completed BS in **Computer Science Engineering**
@@ -30,7 +30,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morshedul-antor&theme=light&background=fff)](https://git.io/streak-stats)
 
-<img src="https://komarev.com/ghpvc/?username=morshedul-antor&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=morshedul-antor&style=flat-square&color=blue" alt=""/> -->
 
 #### Connect With Me
 
