@@ -1,10 +1,5 @@
 ## Hi there, I'm Morshedul Antor 👋
 
-#### Now
-
--   :fire: Interested in Mobile App Development and DevOps
--   :calendar: Looking for contributing to React based projects
-
 #### Talking About Personal Stuffs
 
 -   🏢 I'm currently working at **HEALTHx Ventures**
@@ -14,6 +9,11 @@
 -   🌱 Learning about **NextJS**, **React Native**, **DevOps**
 -   💬 Ping me about **JS**, **ReactJS**, **Python**, **Machine Learning**
 -   📫 Reach me: [Linkedin.com](https://www.linkedin.com/in/morshedul-antor)
+
+#### Now
+
+-   :fire: Interested in Mobile App Development and DevOps
+-   :calendar: Looking for contributing to React based projects
 
 #### My Current Stack
 
@@ -29,6 +29,7 @@
 #### My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morshedul-antor&theme=light&background=fff)](https://git.io/streak-stats)
+
 <img src="https://komarev.com/ghpvc/?username=morshedul-antor&style=flat-square&color=blue" alt=""/>
 
 #### Connect With Me
