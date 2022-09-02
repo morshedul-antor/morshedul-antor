@@ -34,8 +34,6 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=morshedul-antor&style=flat-square&color=blue" alt=""/> -->
 
-![Snake animation](https://github.com/morshedul-antor/morshedul-antor/blob/output/github-contribution-grid-snake.svg)
-
 #### Connect With Me
 
 <p left="center">
