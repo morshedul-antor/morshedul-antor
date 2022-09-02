@@ -3,7 +3,7 @@
 #### About Me
 
 -   🏢 I'm currently working at **HEALTHx Ventures**
--   :graduate_cap: Completed BS in **Computer Science Engineering**
+-   :writing_hand: Completed BS in **Computer Science Engineering**
 -   ⚙️ I use daily: `.js`, `.jsx`, `.py`, `.css`, `.sh`
 -   🌍 I'm mostly active within the **ReactJS Community**
 -   🌱 Learning about **NextJS**, **React Native**, **DevOps**
@@ -31,6 +31,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morshedul-antor&theme=light&background=fff)](https://git.io/streak-stats)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=morshedul-antor&style=flat-square&color=blue" alt=""/> -->
+
+![Snake animation](https://github.com/morshedul-antor/morshedul-antor/blob/output/github-contribution-grid-snake.svg)
 
 #### Connect With Me
 
