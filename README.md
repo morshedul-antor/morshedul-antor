@@ -1,5 +1,7 @@
 ## Hi there, I'm Morshedul Antor 👋
 
+ <img align="right" alt="GIF" src="https://github.com/morshedul-antor/morshedul-antor/blob/main/code.gif?raw=true" width="400" height="300" />
+
 #### About Me
 
 -   🏢 I'm currently working at **HEALTHx Ventures**
@@ -9,8 +11,6 @@
 -   🌱 Learning about **NextJS**, **React Native**, **DevOps**
 -   💬 Ping me about **JS**, **ReactJS**, **Python**, **Machine Learning**
 -   📫 Reach me: [Linkedin.com](https://www.linkedin.com/in/morshedul-antor)
-
- <img align="right" alt="GIF" src="https://github.com/morshedul-antor/morshedul-antor/blob/main/code.gif?raw=true" width="400" height="300" />
 
 #### Now
 
