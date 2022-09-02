@@ -3,7 +3,7 @@
 #### About Me
 
 -   🏢 I'm currently working at **HEALTHx Ventures**
--   :icon-graduate-cap: Completed BS in **Computer Science Engineering**
+-   ::writing_hand: Completed BS in **Computer Science Engineering**
 -   ⚙️ I use daily: `.js`, `.jsx`, `.py`, `.css`, `.sh`
 -   🌍 I'm mostly active within the **ReactJS Community**
 -   🌱 Learning about **NextJS**, **React Native**, **DevOps**
