@@ -3,12 +3,14 @@
 #### About Me
 
 -   🏢 I'm currently working at **HEALTHx Ventures**
--   :writing_hand: Completed BS in **Computer Science Engineering**
+-   🎯 Completed BS in **Computer Science Engineering**
 -   ⚙️ I use daily: `.js`, `.jsx`, `.py`, `.css`, `.sh`
 -   🌍 I'm mostly active within the **ReactJS Community**
 -   🌱 Learning about **NextJS**, **React Native**, **DevOps**
 -   💬 Ping me about **JS**, **ReactJS**, **Python**, **Machine Learning**
 -   📫 Reach me: [Linkedin.com](https://www.linkedin.com/in/morshedul-antor)
+
+ <img align="right" alt="GIF" src="https://github.com/morshedul-antor/morshedul-antor/blob/main/code.gif?raw=true" width="400" height="300" />
 
 #### Now
 
