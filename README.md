@@ -1,6 +1,6 @@
 ## Hi there, I'm Morshedul Antor 👋
 
- <img align="right" alt="GIF" src="https://github.com/morshedul-antor/morshedul-antor/blob/main/code.gif?raw=true" width="400" height="310" />
+<img align="right" alt="GIF" src="https://github.com/morshedul-antor/morshedul-antor/main/code.gif?raw=true" width="400" height="310" />
 
 #### About Me
 
