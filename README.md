@@ -8,8 +8,8 @@
 -   🎯 Completed BS in **Computer Science Engineering**
 -   ⚙️ I regularly use `.js`, `.jsx`, `.py`, `.css`, `.sh`
 -   🌍 I'm mostly active within the **ReactJS Community**
--   🌱 Learning about **NextJS**, **React Native**, **DevOps**
--   💬 Ping me about **JS**, **ReactJS**, **Python**, **Machine Learning**
+-   🌱 Learning about **React Native**, **NodeJS**, **DevOps**
+-   💬 Ping me about **JS**, **ReactJS**, **Python**, **FastAPI**
 -   📫 Reach me: [Linkedin.com](https://www.linkedin.com/in/morshedul-antor)
 
 #### Now
@@ -22,11 +22,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="44" height="44"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="44"/>
 
 #### My Stats
 
