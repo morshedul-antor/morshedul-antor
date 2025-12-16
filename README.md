@@ -36,11 +36,16 @@
 
 #### Backend:
 <div style="display: flex; align-items: center; gap: 12px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" style="max-height: 40px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" style="max-height: 40px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" style="max-height: 40px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" style="max-height: 40px;"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" style="max-height: 40px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" 
+       title="FastAPI" alt="FastAPI" style="width: 36px; height: 36px; object-fit: contain;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" 
+       title="Node.js" alt="Node.js" style="width: 36px; height: 36px; object-fit: contain;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" 
+       title="Express.js" alt="Express.js" style="width: 36px; height: 36px; object-fit: contain;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" 
+       title="SQLAlchemy" alt="SQLAlchemy" style="width: 36px; height: 36px; object-fit: contain;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" 
+       title="Prisma" alt="Prisma" style="width: 36px; height: 36px; object-fit: contain;"/>
 </div>
 
 #### Databases:
