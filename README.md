@@ -36,26 +36,11 @@
 
 #### Backend:
 <div style="display: flex; align-items: center; gap: 12px;">
-  <div style="width: 40px; height: 40px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" 
-         title="FastAPI" alt="FastAPI" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-  <div style="width: 40px; height: 40px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" 
-         title="Node.js" alt="Node.js" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-  <div style="width: 40px; height: 40px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" 
-         title="Express.js" alt="Express.js" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-  <div style="width: 40px; height: 40px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" 
-         title="SQLAlchemy" alt="SQLAlchemy" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
-  <div style="width: 40px; height: 40px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" 
-         title="Prisma" alt="Prisma" style="width: 100%; height: 100%; object-fit: contain;" />
-  </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" style="max-height: 40px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" style="max-height: 40px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" style="max-height: 40px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" style="max-height: 40px;"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="Prisma" style="max-height: 40px;"/>
 </div>
 
 #### Databases:
