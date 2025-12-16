@@ -13,9 +13,9 @@
 
 #### 🚀 Now
 
--   🔥 Interested in system scalability, DevOps and automation
--   📆 Looking to contribute to full-stack projects and cloud solutions
--   🧠 Improving skills in system design, optimization and scalable architecture
+-   🔥 Interested in system DevOps & Automation
+-   📆 Looking to contribute to Full-Stack Projects
+-   🧠 Improving skills in System Design & Scalable Architecture
 
 #### My Current Stack
 
