@@ -7,7 +7,7 @@
 -   🏢 I'm currently working at **Augmedix (Commure)**
 -   🎯 Completed B.S. in **Computer Science Engineering**
 -   ⚙️ Regularly use `.js`, `.jsx`, `.ts`, `.py`, `.css`, `.sh`
--   🌍 I'm mostly active within the **JS and Python Community**
+-   🌍 Mostly active within the **JS and Python Community**
 -   💬 Ping me about **JS**, **React.js**, **Python**, **FastAPI**
 -   📫 Reach me: [Linkedin.com](https://www.linkedin.com/in/morshedul-antor)
 
@@ -15,7 +15,7 @@
 
 -   🔥 Interested in system DevOps & Automation
 -   📆 Looking to contribute to Full-Stack Projects
--   🧠 Improving skills in System Design & Scalable Architecture
+-   🧠 Improving skills in System Design & Architecture
 
 #### My Current Stack
 
