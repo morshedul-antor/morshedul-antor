@@ -20,7 +20,12 @@
 ### 🛠️ My Current Stack
 
 - #### Languages
-JavaScript, Python, TypeScript, SQL
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
+JavaScript, 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="36"/>&nbsp;
+Python, 
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
+TypeScript
 
 - #### Frontend
 React, Next.js, Angular, Vue.js, HTML5, CSS3, Tailwind, Ant Design
