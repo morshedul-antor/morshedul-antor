@@ -43,9 +43,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" 
        title="Express.js" alt="Express.js" style="width: 36px; height: 36px; object-fit: contain;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" 
-       title="SQLAlchemy" alt="SQLAlchemy" style="width: 36px; height: 36px; object-fit: contain;"/>
+       title="SQLAlchemy" alt="SQLAlchemy" style="width: 56px; height: 56px; object-fit: contain;"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" 
-       title="Prisma" alt="Prisma" style="width: 36px; height: 36px; object-fit: contain;"/>
+       title="Prisma" alt="Prisma" style="width: 34px; height: 34px; object-fit: contain;"/>
 </div>
 
 #### Databases:
