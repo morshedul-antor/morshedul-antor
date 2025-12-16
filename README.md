@@ -2,20 +2,20 @@
 
 <img align="right" alt="GIF" src="https://github.com/morshedul-antor/morshedul-antor/blob/main/code.gif?raw=true" width="400" height="310" />
 
-#### About Me
+#### 👨‍💻 About Me
 
 -   🏢 I'm currently working at **Augmedix (Commure)**
--   🎯 Completed BS in **Computer Science Engineering**
+-   🎯 Completed B.S. in **Computer Science Engineering**
 -   ⚙️ Regularly use `.js`, `.jsx`, `.ts`, `.py`, `.css`, `.sh`
 -   🌍 I'm mostly active within the **JS and Python Community**
--   🌱 Learning about **React Native**, **Angular**, **DevOps**
 -   💬 Ping me about **JS**, **React.js**, **Python**, **FastAPI**
 -   📫 Reach me: [Linkedin.com](https://www.linkedin.com/in/morshedul-antor)
 
-#### Now
+#### 🚀 Now
 
--   :fire: Interested in Mobile App Development and DevOps
--   :calendar: Looking for contributing to React based projects
+-   🔥 Interested in system scalability, DevOps and automation
+-   📆 Looking to contribute to full-stack projects and cloud solutions
+-   🧠 Improving skills in system design, optimization and scalable architecture
 
 #### My Current Stack
 
