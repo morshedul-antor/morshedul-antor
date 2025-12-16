@@ -19,20 +19,20 @@
 
 ### 🛠️ My Current Stack
 
-- **Languages**
+- #### Languages
 JavaScript, Python, TypeScript, SQL
 
-- **Frontend**
+- #### Frontend
 React, Next.js, Angular, Vue.js, HTML5, CSS3, Tailwind, Ant Design
 
-- **Backend**
-FastAPI, Node.js, Express.js, SQLAlchemy, Prisma, Redis, Jinja2, JWT, WebSockets
+- #### Backend
+FastAPI, Node.js, Express.js, SQLAlchemy, Prisma, Redis, Jinja2, WebSockets
 
-- **Databases**
+- #### Databases
 MySQL, PostgreSQL, MongoDB
 
-- **DevOps & Cloud**
-Git, GitHub, Bitbucket, AWS (EC2, S3, Route 53, Amplify), Jenkins, Docker, k6, Nginx
+- #### DevOps & Cloud
+Git, GitHub, Bitbucket, AWS, Jenkins, Docker, k6, Nginx
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
